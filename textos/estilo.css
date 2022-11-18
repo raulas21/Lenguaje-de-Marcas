@@ -1,7 +1,12 @@
-pre pre{
+pre b{
+    color:purple
    
-    color:rgb(223, 41, 81)
-    font-size:large
+}
+pre b{
+    font-size:x-large;
+}
+pre p {
+    text-decoration-line: overline; 
 }
     
 
