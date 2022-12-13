@@ -1,12 +1,12 @@
-pre b{
-    color:purple
-   
+del{
+    color: blue;
 }
-pre b{
-    font-size:x-large;
+del{
+    text-decoration-line: line-through;
 }
-pre p {
-    text-decoration-line: overline; 
+del{
+    font-size: 3em;
 }
-    
-
+del{
+vertical-align:text-top
+}
